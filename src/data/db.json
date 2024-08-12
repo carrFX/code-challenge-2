@@ -1,0 +1,74 @@
+{
+    "heroImage" : [
+        "/homeImage/hero1.jpeg",
+        "/homeImage/hero2.jpeg",
+        "/homeImage/hero3.jpeg",
+        "/homeImage/hero4.jpg",
+        "/homeImage/hero5.jpg"
+    ],
+    
+    "teams" : [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "designation": "Head of Mechanical",
+          "image": "/teams/team1.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "Michael Israfil",
+          "designation": "Head of Repairing",
+          "image": "/teams/team2.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "Jane Smith",
+          "designation": "secretary",
+          "image": "/teams/team3.jpeg"
+        },
+        {
+          "id": 4,
+          "name": "Emily Davis",
+          "designation": "Treasurer",
+          "image": "/teams/team4.jpeg"
+        },
+        {
+          "id": 5,
+          "name": "George Suripto",
+          "designation": "CEO founder",
+          "image": "/teams/team5.jpeg"
+        },
+        {
+          "id": 6,
+          "name": "Dora",
+          "designation": "Drift Driver",
+          "image": "/teams/team6.jpeg"
+        }
+      ],
+
+    "maintenanceImg" : "/homeImage/maintenance.jpg",
+    "historyImg" : "/aboutImage/history.jpeg",
+    "culture" : "/aboutImage/culture.jpeg",
+    "founder" : "/teamAbout/founder.jpeg",
+
+    "maintenance" : "/teamAbout/maintenance.jpeg",
+    "repair" : "/teamAbout/repair.jpeg",
+    "services" : "/homeImage/hero5.jpg",
+    "mechanic1" : "/teams/mechanic1.jpeg",
+    "mechanic2" : "/teams/mechanic2.jpeg",
+    "mechanic3" : "/teams/mechanic3.jpeg",
+    "production1" : "/teams/production1.jpeg",
+    "production2" : "/teams/team4.jpeg",
+    "production3" : "/teams/team6.jpeg",
+
+    "products1" : "/productImg/BoosterGas1.jpg",
+    "products2" : "/productImg/HSRWheels1.jpg",
+    "products3" : "/productImg/ISSOTAMarines.jpg",
+    "products4" : "/productImg/sharpTrades1.jpg",
+    "teampage1" : "/teams/team1.jpeg",
+    "teampage2" : "/teams/team2.jpeg",
+    "teampage3" : "/teams/team3.jpeg",
+    "teampage4" : "/teams/team4.jpeg",
+    "teampage5" : "/teams/team5.jpeg",
+    "teampage6" : "/teams/team6.jpeg"
+}
