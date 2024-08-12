@@ -10,9 +10,9 @@ const page = () => {
         <h1 className="text-3xl text-white font-bold text-center mb-12 tracking-widest uppercase">Leaders</h1>
         </div>
        <div className="w-full flex lg:flex-row flex-col items-center justify-center pb-10">
-            <AnimatedPinDemo name="George Sutikno" age={49} gender="male" national="Germany" picture={teams.founder} />
-            <AnimatedPinDemo name="John Bovi" age={34} gender="male" national="Portugal" picture={teams.maintenance} />
-            <AnimatedPinDemo name="Tierry Henry" age={25} gender="male" national="Spanish" picture={teams.repair} />
+            <AnimatedPinDemo name="George Sutikno" age={49} gender="Male" national="Germany" picture={teams.founder} />
+            <AnimatedPinDemo name="John Bovi" age={34} gender="Male" national="Portugal" picture={teams.maintenance} />
+            <AnimatedPinDemo name="Tierry Henry" age={25} gender="Male" national="Spanish" picture={teams.repair} />
           </div>
       </div>
       <div className="min-h-[100vh]">
@@ -20,9 +20,9 @@ const page = () => {
         <h1 className="text-3xl text-white font-bold text-center mb-12 tracking-widest uppercase">Mechanics Engineering</h1>
       </div>
       <div className="w-full flex lg:flex-row flex-col items-center justify-center pb-10">
-          <AnimatedPinDemo name="Ligma" age={49} gender="male" national="Germany" picture={teams.mechanic1} />
-          <AnimatedPinDemo name="Brotha" age={34} gender="male" national="Portugal" picture={teams.mechanic2} />
-          <AnimatedPinDemo name="Picollo" age={25} gender="male" national="Spanish" picture={teams.mechanic3} />
+          <AnimatedPinDemo name="Ligma" age={49} gender="Male" national="Germany" picture={teams.mechanic1} />
+          <AnimatedPinDemo name="Brotha" age={34} gender="Male" national="Italy" picture={teams.mechanic2} />
+          <AnimatedPinDemo name="Picollo" age={25} gender="Male" national="Spanish" picture={teams.mechanic3} />
       </div>
       </div>
       <div className="min-h-[100vh]">
@@ -30,9 +30,9 @@ const page = () => {
         <h1 className="text-3xl text-white font-bold text-center mb-12 tracking-widest uppercase">Production Teams</h1>
         </div>
         <div className="w-full flex lg:flex-row flex-col items-center justify-center pb-10">
-          <AnimatedPinDemo name="Aurelie" age={49} gender="male" national="Germany" picture={teams.production1} />
-          <AnimatedPinDemo name="Emily Davis" age={34} gender="male" national="Portugal" picture={teams.production2} />
-          <AnimatedPinDemo name="Dora" age={25} gender="male" national="Spanish" picture={teams.production3} />
+          <AnimatedPinDemo name="Aurelie" age={49} gender="Female" national="Spanish" picture={teams.production1} />
+          <AnimatedPinDemo name="Emily Davis" age={34} gender="Female" national="Russia" picture={teams.production2} />
+          <AnimatedPinDemo name="Dora" age={25} gender="Female" national="Ukraine" picture={teams.production3} />
         </div>
       </div>
 </section>

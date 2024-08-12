@@ -12,7 +12,7 @@ const TeamAbout = () => {
         <div className="lg:w-1/2 my-2 text-center">
           <h1 className="text-2xl font-semibold text-white mb-3">Our Teams</h1>
           <p className="text-[#cbcbcb] mb-11">
-            Our team at Bengkel Mobil Drift is comprised of highly skilled and
+            Our team at Mansory is comprised of highly skilled and
             dedicated professionals who are passionate about their work. Each
             member of our team brings a unique set of skills and experiences to
             the table, ensuring that every vehicle that enters our workshop
